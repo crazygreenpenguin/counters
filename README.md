@@ -40,7 +40,7 @@ This project has no external dependencies other,
    BenchmarkUint64Counter_Add-4   	238906304	         5.02 ns/op
 ```
 
-#Use cases
+# Use cases
 
  - Uint64Counter - it's simple counter. May used for request count for example.
  - Sequence - generate sequence uint64 uniq number. Guarantees uniq number for each Next().
