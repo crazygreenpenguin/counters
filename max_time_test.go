@@ -1,6 +1,8 @@
 package counters
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestMaxTime_Get(t *testing.T) {
 	mt := MaxTime(15)
