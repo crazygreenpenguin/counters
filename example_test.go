@@ -1,8 +1,8 @@
 package counters_test
 
 import (
-	"counters"
 	"fmt"
+	"github.com/crazygreenpenguin/counters"
 	"time"
 )
 
